@@ -1,0 +1,17 @@
+body {background-color: rgb(10, 20, 17);
+    
+}
+.two{
+    height: 100%; width: 100%; display: flex; 
+    padding: auto;
+    text color: #000;
+
+}
+h1{
+   text-align: center;
+   color: aqua;
+}
+.one{
+    padding: auto; color white;
+}
+
